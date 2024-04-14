@@ -1,38 +1,65 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios na Plataforma Codeforces
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0010872  |  Gabriela de Oliveira Lemos |
+|  |   |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste na resolução de questões que percorrem o conteúdo visto em sala de aula sobre conceitos iniciais de grafos. 
 
+## Problema 1: [Badge](https://codeforces.com/problemset/problem/1020/B)
+
+- Nível: Médio
+- Conteúdo: Travessia em grafos (DFS/BFS)
+- Explicação:
+- Implementação: [Código 01]()
+- Vídeo:
+- Autor: [Gabriela](https://github.com/heylisten64)
+
+## Problema 2: [Rumor](https://codeforces.com/problemset/problem/893/C)
+
+- Nível: Difícil
+- Conteúdo: Grafos conectados e componentes conectados
+- Explicação:
+- Implementação: [Código 02]()
+- Vídeo:
+- Autor: [Gabriela](https://github.com/heylisten64)
+
+## Problema 3: [Rumor](https://codeforces.com/problemset/problem/893/C)
+
+- Nível: Médio
+- Conteúdo: 
+- Explicação:
+- Implementação: [Código 03]()
+- Vídeo:
+- Autor: []()
+
+## Problema 4: [Rumor](https://codeforces.com/problemset/problem/893/C)
+
+- Nível: Difícil
+- Conteúdo: Grafos conectados e componentes conectados
+- Explicação:
+- Implementação: [Código 04]()
+- Vídeo:
+- Autor: []()
+
+<!--
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+-->
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
+## Outras informações
+Linguagens utilizadas: C++
+
+<!-- ## Instalação 
+**Linguagem**: C++<br>
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
@@ -40,6 +67,6 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
-
+-->
 
 
