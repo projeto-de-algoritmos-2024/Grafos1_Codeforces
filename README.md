@@ -39,10 +39,10 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Vídeo:
 - Autor: []()
 
-## Problema 4: [Rumor](https://codeforces.com/problemset/problem/893/C)
+## Problema 4: []()
 
 - Nível: Difícil
-- Conteúdo: Grafos conectados e componentes conectados
+- Conteúdo: 
 - Explicação:
 - Implementação: [Código 04]()
 - Vídeo:
