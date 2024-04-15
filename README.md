@@ -16,9 +16,9 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 
 - Nível: Médio
 - Conteúdo: Travessia em grafos (DFS/BFS)
-- Explicação:
+- Explicação: [Explicação 01]()
 - Implementação: [Código 01]()
-- Vídeo:
+- Vídeo: [Implementação 01](https://www.youtube.com/watch?v=3xtmn0it1RY) 
 - Autor: [Gabriela](https://github.com/heylisten64)
 
 ## Problema 2: [Rumor](https://codeforces.com/problemset/problem/893/C)
