@@ -1,6 +1,6 @@
 # Exercícios na Plataforma Codeforces
 
-**Número da Lista**: <br>
+**Número da Lista**: 15 <br>
 **Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
