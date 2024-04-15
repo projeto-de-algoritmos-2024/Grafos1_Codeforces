@@ -16,8 +16,8 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 
 - Nível: Médio
 - Conteúdo: Travessia em grafos (DFS/BFS)
-- Explicação: [Explicação 01]()
-- Implementação: [Código 01]()
+- Explicação: [Explicação 01](https://github.com/projeto-de-algoritmos-2024/Grafos1_Codeforces/blob/master/explicacao/explicacao01.md)
+- Implementação: [Código 01](https://github.com/projeto-de-algoritmos-2024/Grafos1_Codeforces/blob/master/codigos/questao01.cpp)
 - Vídeo: [Implementação 01](https://www.youtube.com/watch?v=3xtmn0it1RY) 
 - Autor: [Gabriela](https://github.com/heylisten64)
 
