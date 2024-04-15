@@ -1,4 +1,4 @@
-# Explicacao: [Problema 03](https://codeforces.com/problemset/problem/540/C)
+# Explicação: [Problema 03](https://codeforces.com/problemset/problem/540/C)
 
 O problema consiste em atravessar um mapa de gelo e cair por um piso específico, mas alguns dos pisos estão quebrados e outros intactos.
 

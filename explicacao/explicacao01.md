@@ -1,4 +1,4 @@
-# Explicacao: [Problema 01](https://codeforces.com/problemset/problem/1020/B)
+# Explicação: [Problema 01](https://codeforces.com/problemset/problem/1020/B)
 
 O problema consiste em uma turma de uma escola na qual há um professor e uma quantidade N de alunos que caso não se comportem bem, ganham uma advertência - na verdade, um “furo na insígnia” mas para facilitar tratarei assim.
 
