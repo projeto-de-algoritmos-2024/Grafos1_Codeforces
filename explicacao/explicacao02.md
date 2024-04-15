@@ -1,0 +1,3 @@
+# Explicação: [Problema 02](https://codeforces.com/problemset/problem/893/C)
+
+A questão trata de uma situação na qual precisamos espalhar um rumor gastando a menor quantidade de moedas. O rumor se espalha apenas entre indivíduos que possuem relação um com o outro, e cada indivíduo cobra certa quantia para espalhar o rumor. Se A cobra 8 reais e é amigo de B que cobra 16 reais, por exemplo, pagamos ao indivíduo A para espalhar o rumor para B. 
