@@ -35,17 +35,17 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Nível: Médio
 - Conteúdo: Travessia em grafos (DFS)
 - Explicação: [Explicação 03](https://github.com/projeto-de-algoritmos-2024/Grafos1_Codeforces/blob/master/explicacao/explicacao03.md)
-- Implementação: [Código 03](https://github.com/projeto-de-algoritmos-2024/Grafos1_Codeforces/blob/master/codigos/icecave.cpp)
-- Vídeo: [Implementação 03]()
+- Implementação: [Código 03](https://github.com/projeto-de-algoritmos-2024/Grafos1_Codeforces/blob/master/codigos/questao03.cpp)
+- Vídeo: [Implementação 03](https://youtu.be/T9SrlVPg8sw)
 - Autor: [Vinicius](https://github.com/viniciused26)
 
-## Problema 4: []()
+## Problema 4: [Bertown](https://codeforces.com/problemset/problem/118/E)
 
 - Nível: Difícil
-- Conteúdo: 
-- Explicação: [Explicação 04]()
-- Implementação: [Código 04]()
-- Vídeo: [Implementação 04]()
+- Conteúdo: Travessia em grafos (DFS)
+- Explicação: [Explicação 04](https://github.com/projeto-de-algoritmos-2024/Grafos1_Codeforces/blob/master/explicacao/explicacao04.md)
+- Implementação: [Código 04](https://github.com/projeto-de-algoritmos-2024/Grafos1_Codeforces/blob/master/codigos/questao04.cpp)
+- Vídeo: [Implementação 04](https://youtu.be/P_1CSuh-TAg)
 - Autor: [Vinicius](https://github.com/viniciused26)
 
 <!--
